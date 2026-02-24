@@ -1,0 +1,9 @@
+# Source/working files (not needed for deployment)
+*.py
+*.json
+*.txt
+*.JPG
+*.jpg
+section*_content.html
+
+# Only deploy the final HTML + slides
